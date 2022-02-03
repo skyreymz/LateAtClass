@@ -194,7 +194,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.picoxr": {
-      "version": "file:C:/Users/rthieff/Desktop/Projet VR/TP3/LIBRAIRIE PICO POUR UNITY/PicoXR_Platform_SDK-1.2.5_B81",
+      "version": "file:D:/Polytech/S9/RVI/PicoXR_Platform_SDK-1.2.5_B81",
       "depth": 0,
       "source": "local",
       "dependencies": {
