@@ -1,12 +1,15 @@
 # LateAtClass
 
-<!--
 
 ## Getting Started / Prerequisites / Installing / Development
 
-Chemin à éditer dans les champs "com.unity.xr.picoxr" des fichiers Packages/packages-lock.json et Packages/manifest.json.
+Edit the path to the Pico library ("com.unity.xr.picoxr" fields) in the `Packages/packages-lock.json` and `Packages/manifest.json` files.
 
--->
+### Used assets
+
+- [Gist Level Designer](https://assetstore.unity.com/packages/tools/level-design/gist-level-designer-177276)
+- [Escalator Pro](https://assetstore.unity.com/packages/tools/animation/escalatorpro-135432)
+- [VR Cinema](https://assetstore.unity.com/packages/3d/props/interior/vr-cinema-for-mobile-150120)
 
 ### Tutoriel pour repartir de 0
 
