@@ -135,12 +135,24 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 075f2fd14f082594b8ff95aa53243c4a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 075f2fd14f082594b8ff95aa53243c4a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 075f2fd14f082594b8ff95aa53243c4a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 075f2fd14f082594b8ff95aa53243c4a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.4678588
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 075f2fd14f082594b8ff95aa53243c4a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.4827
+      value: 2.15
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 075f2fd14f082594b8ff95aa53243c4a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1649,8 +1661,8 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1597996595}
   serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
+  m_Mass: 0.5
+  m_Drag: 0.5
   m_AngularDrag: 0.05
   m_UseGravity: 1
   m_IsKinematic: 0
@@ -1664,7 +1676,7 @@ SphereCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1597996595}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: acb78fcb0450e4fb8b9fb4a2efa13fac, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
