@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 1e840d93b1c92473f83d910b16b2f458
   - enabled: 1
+    path: Assets/Scenes/PlateauScene.unity
+    guid: bb88c39aa7052db43a72d8053cd4e46d
+  - enabled: 1
     path: Assets/Scenes/PoPS.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
