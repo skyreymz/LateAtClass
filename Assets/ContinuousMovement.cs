@@ -27,7 +27,7 @@ public class ContinuousMovement : MonoBehaviour
         device.TryGetFeatureValue(CommonUsages.primary2DAxis, out inputAxis);
     }
 
-    void FixedUpdate()
+    void LateUpdate()
     {
         Quaternion headYaw = Quaternion.Euler(0, rig.cameraGameObject.transform.eulerAngles.y, 0);
         Vector3 direction = headYaw * new Vector3(inputAxis.x, 0, inputAxis.y);
@@ -35,7 +35,7 @@ public class ContinuousMovement : MonoBehaviour
         character.Move(direction * Time.fixedDeltaTime * speed);
 
         // Gravity
-        fallingSpeed -= 10;
+        fallingSpeed += gravity;
         character.Move(Vector3.up * fallingSpeed * Time.fixedDeltaTime);
     }
 }
