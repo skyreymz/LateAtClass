@@ -215,7 +215,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.picoxr": {
-      "version": "file:C:/Users/user/Documents/PolytechParis-Sud/Informatique/ET5/VR/PicoSDK_PicoXR",
+      "version": "file:C:/Users/youss/Documents/Education/Polytech/S9/RVI/PicoXR_Platform_SDK-1.2.5_B81",
       "depth": 0,
       "source": "local",
       "dependencies": {

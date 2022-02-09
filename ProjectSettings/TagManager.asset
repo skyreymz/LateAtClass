@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Box
+  - ball
+  - Trail
+  - panier
+  - score
+  - cam
   layers:
   - Default
   - TransparentFX
