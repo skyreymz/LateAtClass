@@ -106,7 +106,7 @@ Material:
     - _EnvironmentReflections: 1
     - _Exposure: 0.47
     - _FogBottom: 1
-    - _FogEnd: 0.079
+    - _FogEnd: 0.113
     - _FogIntens: 1
     - _FogStart: 0
     - _GlossMapScale: 0
