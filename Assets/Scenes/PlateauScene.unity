@@ -390,7 +390,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Timeout: 10
-  m_XRRig: {fileID: 0}
+  m_XRRig: {fileID: 638645795}
 --- !u!114 &638645793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -421,6 +421,17 @@ MonoBehaviour:
   m_MoveObjectIn: 14
   m_MoveObjectOut: 15
   m_PoseProvider: {fileID: 0}
+--- !u!114 &638645795 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1829434460797795584, guid: 0b4f3a1fa6f4595449172e294bb9ce15, type: 3}
+  m_PrefabInstance: {fileID: 638645787}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 638645788}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7448815bd5148434682b3d931066cd10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
