@@ -7874,6 +7874,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7292716021035359320, guid: bc0bfb478c9167145a1289bfc61baf78, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7292716021035359322, guid: bc0bfb478c9167145a1289bfc61baf78, type: 3}
+      propertyPath: m_CameraYOffset
+      value: 1.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 7292716021035359322, guid: bc0bfb478c9167145a1289bfc61baf78, type: 3}
+      propertyPath: m_TrackingOriginMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7292716022448788332, guid: bc0bfb478c9167145a1289bfc61baf78, type: 3}
       propertyPath: m_UseForceGrab
       value: 1

@@ -215,9 +215,9 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.picoxr": {
-      "version": "file:C:/Users/user/Documents/PolytechParis-Sud/Informatique/ET5/VR/PicoSDK_PicoXR",
+      "version": "file:PicoXR_Platform_SDK-1.2.5_B81",
       "depth": 0,
-      "source": "local",
+      "source": "embedded",
       "dependencies": {
         "com.unity.xr.management": "3.2.16",
         "com.unity.ugui": "1.0.0",
