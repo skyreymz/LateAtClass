@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using UnityEditor;
-using UnityEditor.Experimental.SceneManagement;
+
 using System.Reflection;
 using System.Collections.Generic;
 
@@ -17,7 +17,7 @@ namespace GistLevelDesignerFree {
             gameObjectIdentity.fileID = 0;
             gameObjectIdentity.rootGUID = null;
             
-            PrefabStage prefabStage = PrefabStageUtility.GetCurrentPrefabStage();
+            UnityEditor.SceneManagement.PrefabStage prefabStage = UnityEditor.SceneManagement.PrefabStageUtility.GetCurrentPrefabStage();
             if (prefabStage != null || PrefabUtility.IsPartOfAnyPrefab(gameObject)) {
                 prefabIdentity = true;
                 gameObjectIdentity.identity = Identity.ASSET;
