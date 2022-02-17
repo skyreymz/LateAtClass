@@ -83,7 +83,7 @@ AudioListener:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 724681532461846256}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!114 &724681532461846258
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -129,6 +129,7 @@ GameObject:
   - component: {fileID: 3235520521223063328}
   - component: {fileID: 793222376193799146}
   - component: {fileID: 274088161326570372}
+  - component: {fileID: 6740264492245485534}
   m_Layer: 0
   m_Name: Phone_QR
   m_TagString: Untagged
@@ -214,6 +215,22 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.07789364, y: 0.0071025565, z: 0.15132591}
   m_Center: {x: 0.00034347922, y: 0.00016965496, z: -0.0021899939}
+--- !u!54 &6740264492245485534
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1153743923706040895}
+  serializedVersion: 2
+  m_Mass: 0.3
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &7419591198744502067
 GameObject:
   m_ObjectHideFlags: 0
