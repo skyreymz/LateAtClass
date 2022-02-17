@@ -5,18 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Create_with_VR_Starter_Scene.unity
-    guid: afdcb113ffd5a4353ad88f0dd03743af
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: Assets/Scenes/SampleSceneDeBase.unity
-    guid: 1e840d93b1c92473f83d910b16b2f458
-  - enabled: 0
-    path: Assets/Scenes/PlateauAmbiance.unity
-    guid: bb88c39aa7052db43a72d8053cd4e46d
   - enabled: 1
     path: Assets/Scenes/PlateauScene.unity
     guid: 9ac8d96d9074859448d8d0cbeda72f49
