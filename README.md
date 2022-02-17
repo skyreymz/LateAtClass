@@ -1,5 +1,7 @@
 # LateAtClass
 
+![Game screenshot](./Screenshot.jpg)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development purpose.
@@ -96,6 +98,21 @@ Sur Unity : _Assets > Export package > All_
 Sur Unity : _Assets > Import package > Custom package_
 
 -->
+
+### Revision history
+
+#### LateAtClass v0.1
+
+- Player VR movement
+- "Plateau" scene:
+	- visual and "acoustic" environment
+	- basketball interactions
+	- smartphone interactions
+	- "Lieu de Vie" teleporters
+- "PoPS" scene:
+	- school interior environment
+	- livecam phone
+- Switch between scenes
 
 ---
 
