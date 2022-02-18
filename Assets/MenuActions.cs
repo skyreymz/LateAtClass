@@ -3,15 +3,16 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class TeleportToScene : MonoBehaviour
+public class MenuActions : MonoBehaviour
 {
     public string sceneName;
-    private void OnTriggerEnter(Collider other)
+
+    public void QuitGame()
     {
-        Teleportation();
+        Application.Quit();
     }
 
-    public void Teleportation()
+    public void RestartGame()
     {
         SceneManager.LoadScene(sceneName);
     }

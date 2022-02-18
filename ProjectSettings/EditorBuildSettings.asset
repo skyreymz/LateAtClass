@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PoPS.unity
     guid: 4ded1581e0a61fa4c9d0c7c63ff3d146
+  - enabled: 1
+    path: Assets/Scenes/ClassroomScene.unity
+    guid: c29085482adbe06489a91cf9e2459e00
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8fccb80e6c9a84389a75f2c1ed4d786d, type: 2}
     Unity.XR.PXR.Settings: {fileID: 11400000, guid: da71b46bb78281542bf7d1d73b0b88bc, type: 2}
