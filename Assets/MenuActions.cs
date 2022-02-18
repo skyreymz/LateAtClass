@@ -5,8 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class MenuActions : MonoBehaviour
 {
-    public string sceneName;
-
     public void QuitGame()
     {
         Application.Quit();
@@ -14,6 +12,6 @@ public class MenuActions : MonoBehaviour
 
     public void RestartGame()
     {
-        SceneManager.LoadScene(sceneName);
+        SceneManager.LoadScene("PlateauScene");
     }
 }

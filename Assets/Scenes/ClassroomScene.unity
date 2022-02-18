@@ -406,7 +406,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7292716020676256250, guid: bc0bfb478c9167145a1289bfc61baf78, type: 3}
       propertyPath: m_RaycastMask.m_Bits
-      value: 32
+      value: 33
       objectReference: {fileID: 0}
     - target: {fileID: 7292716022448788322, guid: bc0bfb478c9167145a1289bfc61baf78, type: 3}
       propertyPath: m_LineWidth
@@ -426,7 +426,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7292716022448788332, guid: bc0bfb478c9167145a1289bfc61baf78, type: 3}
       propertyPath: m_RaycastMask.m_Bits
-      value: 32
+      value: 33
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bc0bfb478c9167145a1289bfc61baf78, type: 3}
@@ -992,4 +992,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9f211d41f5d04b4792fa71586c7d489, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: 

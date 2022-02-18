@@ -29,8 +29,7 @@ Edit the path to the Pico library ("com.unity.xr.picoxr" fields) in the `Package
 -->
 
 
-1) Récupérer le projet vierge
-	- Ouvrez le projet via Unity Hub
+1) Une fois cloné, ouvrez le projet via Unity Hub
 
 2) Installer le PICO SDK pour développer sur Unity ([documentation du PICO](https://sdk.picovr.com/docs/UnityXRSDK/en/index.html))
 	- Téléchargez le SDK : https://developer.pico-interactive.com/sdk => Device : G2 4k Series => Download (Pico XR_Platform_SDK-1.2.5_B81) **EDIT: ce dossier a finalement été versionné dans `/Packages` !**
@@ -113,6 +112,11 @@ Sur Unity : _Assets > Import package > Custom package_
 	- school interior environment
 	- livecam phone
 - Switch between scenes
+
+#### LateAtClass v0.2
+
+- Create "Classroom" scene:
+	- Quit and Restart UI
 
 ---
 

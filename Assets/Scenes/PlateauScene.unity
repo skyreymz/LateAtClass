@@ -3522,7 +3522,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ad34abafad169848a38072baa96cdb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_InteractionManager: {fileID: 0}
+  m_InteractionManager: {fileID: 1829434461389568605}
   m_Colliders: []
   m_InteractionLayerMask:
     serializedVersion: 2
@@ -6952,7 +6952,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3609482946802331551, guid: 582daba98eee4af4fb1c5c62fbd24949, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -44.88
+      value: -45.32
       objectReference: {fileID: 0}
     - target: {fileID: 3609482946802331551, guid: 582daba98eee4af4fb1c5c62fbd24949, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6992,7 +6992,7 @@ PrefabInstance:
       objectReference: {fileID: 13400000, guid: acb78fcb0450e4fb8b9fb4a2efa13fac, type: 2}
     - target: {fileID: 3863469320797930959, guid: 582daba98eee4af4fb1c5c62fbd24949, type: 3}
       propertyPath: m_Drag
-      value: 0.2
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 3863469320797930959, guid: 582daba98eee4af4fb1c5c62fbd24949, type: 3}
       propertyPath: m_Mass
